@@ -1,0 +1,22 @@
+{
+    "name": "personal-site",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "^1.17.1",
+        "express": "^4.15.2",
+        "jquery": "^3.2.1"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gab1306/personal-site.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gab1306/personal-site/issues"
+    },
+    "homepage": "https://github.com/gab1306/personal-site#readme"
+}
