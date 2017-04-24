@@ -6,7 +6,7 @@ var bodyParser = require('body-parser')
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-app.use(express.static('personal-site'));
+app.use(express.static('public'));
 app.use(express.static('node_modules'));
 
 app.all('*', function(req, res) {
