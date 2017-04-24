@@ -13,6 +13,4 @@ app.all('*', function(req, res) {
     res.sendFile(__dirname + "/index.html")
 })
 
-app.listen('8000', function() {
-    console.log("yo yo yo, on 8000 bro");
-});
+app.listen(process.env.PORT || '8080');
