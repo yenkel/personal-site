@@ -35,7 +35,7 @@ header {
     height: 800px;
     min-height: 500px;
     width: 100%;
-    background: #161415 url(https://mail.google.com/mail/u/0/?ui=2&ik=0e6cef2d73&view=fimg&th=15b9ef3fffa70346&attid=0&disp=inline&safe=1&attbid=ANGjdJ99vHiZStLPxTFqYtu5sCZAa3k8P-f_tYZafn_IIRZ221Ufxn2aGyyKDkXAk4FTpCcdOLaUSf66ft7HBeMl-Rjm_EFFciQss1ssPhlW2b-_0VvnWosITMSCAUw&ats=1493020487646&rm=15b9ef3fffa70346&zw&sz=w1280-h620) no-repeat top center;
+    background: #161415 url(http://rocktechnolabs.com/wp-content/uploads/2016/06/portfoliobg1.jpg) no-repeat top center;
     background-size: cover !important;
     -webkit-background-size: cover !important;
     text-align: center;
@@ -438,13 +438,13 @@ ul#nav li.current a {
 }
 
 .react {
-    width: 55%;
+    width: 75%;
     -moz-animation: react 2s ease;
     -webkit-animation: react 2s ease;
 }
 
 .meanstack {
-    width: 65%;
+    width: 75%;
     -moz-animation: meanstack 2s ease;
     -webkit-animation: meanstack 2s ease;
 }
